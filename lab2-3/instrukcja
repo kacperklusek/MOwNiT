@@ -1,0 +1,3 @@
+plik interpolation.ipynb można otworzyć za pomocą programu jupyter notebook,
+lub przy pomocy vs-code / PyCharm i tam skompilować go przy użyciu wybranego
+interpretera Python, instalując wcześniej użyte biblioteki (załączone na początku pliku)
