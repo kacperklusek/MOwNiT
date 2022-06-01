@@ -1,0 +1,9 @@
+dwie precyzje tylko w 1 zadaniu
+
+generalnie zadajemy jakis wektor X
+
+obliczamy sobie B przez: AX = B
+
+potem sprawdzamy jakie X dostaniemy jak rozwiążemy odpowiednik X = BA^(-1) (ten sam układ tylko znamy A i B)
+
+
